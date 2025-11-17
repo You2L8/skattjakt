@@ -1,0 +1,1 @@
+Skattjakt — GitHub Pages pack (You2L8/Skattjakt)\n\nInnehåller förbättrad affisch, logo, submit-form och workflow.\nPublicera genom att ladda upp allt till repo och pusha till main.\nSite URL: https://You2L8.github.io/Skattjakt
